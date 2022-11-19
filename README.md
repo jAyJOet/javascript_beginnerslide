@@ -1,4 +1,5 @@
 # javascript_beginnerslide
+# this is the link to my live page https://jayjoet.github.io/javascript_beginnerslide/
 a slide show of 6 images with the following;
 # Directional icons (previous and next Icons ) are shown on the images only when hovered
 # On clicking the icons, it should show the next/previous image. 
